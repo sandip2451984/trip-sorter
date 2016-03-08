@@ -1,0 +1,22 @@
+{
+  "name": "propertyfinder/trip-sorter",
+  "authors": [
+    {
+      "name": "Wojciech Olszewski",
+      "email": "wojciecholszewski87@gmail.com",
+      "homepage": "http://wojciech-olszewski.github.io/"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "TripSorter\\": "src"
+    }
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "require": {},
+  "require-dev": {
+    "phpspec/phpspec": "^2.4"
+  }
+}

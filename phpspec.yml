@@ -1,0 +1,4 @@
+suites:
+    trip_sorter:
+        namespace: TripSorter
+        psr4_prefix: TripSorter
